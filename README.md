@@ -1,62 +1,55 @@
-# 🌐 Personal Portfolio - Nadia Baloch
+# 👋 Hi, I'm Nadia Baloch  
 
-Welcome to my **personal portfolio website**, designed and developed to showcase my work, skills, and experience as a **Full Stack Web Developer**.
-
----
-
-## ✨ Overview
-This portfolio represents my journey as a developer — from frontend design to backend logic.  
-Built using **modern web technologies** with a focus on clean code, responsive UI, and interactive components.
+💻 **Full Stack Web Developer** | 💡 *Building creative and scalable web solutions*  
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me  
+I'm a passionate developer from **Karachi, Pakistan**, specializing in both **Frontend** and **Backend** development.  
+I love transforming ideas into fully functional, responsive, and visually appealing web applications.  
+
+---
+
+## 🛠️ Tech Stack  
 
 ### 🔹 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
 - React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3 (Responsive Design, Flexbox, Grid)  
 
 ### 🔹 Backend
-- Python (Django)  
+- Python (Django Framework)  
 - PHP  
-- MySQL  
+- MySQL & SQLite Databases  
+
+### 🔹 Tools & Workflow
+- Git & GitHub  
+- RESTful APIs  
+- VS Code  
+- Postman  
+- Deployment (GitHub Pages, Vercel, Render)  
 
 ---
 
-## 🚀 Features
-- 🎨 **Modern UI** — clean, minimal, and responsive design  
-- 💡 **Dynamic Components** built with React  
-- 📱 **Fully Responsive** — works on mobile, tablet, and desktop  
-- 🔗 **Live Projects Section** showcasing my latest work  
-- 📬 **Contact Form** for easy communication  
+## 📈 Current Focus  
+- Building full-stack apps with **React + Django**  
+- Learning advanced **REST API integration**  
+- Improving backend logic and database optimization  
 
 ---
 
-## 🌍 Live Demo
-👉 **[View Portfolio](https://codebynb.github.io/codebynb/)**  
-
----
-
-## 🧠 About Me
-I’m **Nadia Baloch**, a passionate **Full Stack Web Developer** from **Karachi, Pakistan**.  
-I love building creative, functional, and user-friendly web applications using both frontend and backend technologies.  
-
-💬 *"Turning ideas into reality through clean code and design."*
-
----
-
-## 📫 Contact
+## 📫 Connect With Me  
 - 📧 **Email:** nadiabaloch1618@gmail.com  
+- 🌐 **Portfolio:** [https://codebynb.github.io/codebynb/](https://codebynb.github.io/codebynb/)  
 - 💼 **LinkedIn:** [Nadia Baloch](https://www.linkedin.com/in/nadia-baloch-47360338b)  
-- 🌐 **GitHub:** [codebynb](https://github.com/codebynb)
 
 ---
 
-## 🪪 License
-This project is open source and available under the [MIT License](LICENSE).
+## 🌟 GitHub Stats  
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebynb&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebynb&layout=compact&theme=tokyonight)  
 
 ---
 
-⭐ **Feel free to fork or star this repository if you liked my portfolio!**
+## ✨ Quote  
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
